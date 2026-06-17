@@ -1,15 +1,9 @@
 # Hi, I'm Abdulrahman Mahmoud 👋
 
-## 🎥 Portfolio Demo
-
-[▶️ Watch Demo Video](./PixVerse_V6_Image_Text_540P_Put_the_codes_and_.mp4)
-
-
 
 <p align="center">
-  <img src="content://media/external/downloads/1000228914" width="100%" alt="Abdulrahman Mahmoud">
+  <img src="ضع_رابط_الصورة_هنا" width="100%" alt="Abdulrahman Mahmoud">
 </p>
-
 
 
 
