@@ -4,14 +4,14 @@
 
 I am passionate about turning raw data into meaningful insights and building functional, user-centric web experiences. I focus on uncovering patterns and leveraging data to drive informed decision-making.
 
----
+--
 
 ### 📈 Current Focus
 Currently exploring advanced data analysis techniques and optimizing web performance through data-driven insights.
 
 > "Data is the new oil, but only if you know how to refine it."
 
----
+--
 
 ### 🛠 Technical Skills
 
@@ -19,7 +19,7 @@ Currently exploring advanced data analysis techniques and optimizing web perform
 - **Web Development:** HTML5, CSS3, JavaScript.
 - **Tools:** Git, GitHub, VS Code.
 
----
+--
 
 ### 🌐 Connect with me
 
