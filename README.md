@@ -1,7 +1,7 @@
 # Hi, I'm Abdulrahman Mahmoud 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cbb4d25b-04d3-4be3-aa9d-421ca785285d" width="100%" alt="Abdulrahman Mahmoud">
+  <img src="https://github.com/user-attachments/assets/cbb4d25b-04d3-4be3-aa9d-421ca785285d" width="80%" alt="Abdulrahman Mahmoud">
 </p>
 
 ### Data Analyst | Developer | Problem Solver
