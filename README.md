@@ -1,10 +1,8 @@
 # Hi, I'm Abdulrahman Mahmoud 👋
 
-<p align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="https://github.com/Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev/raw/refs/heads/main/PixVerse_V6_Image_Text_540P_Put_the_codes_and_.mp4" type="video/mp4">
-  </video>
-</p>
+## 🎥 Portfolio Demo
+
+[▶️ Watch Demo Video](./PixVerse_V6_Image_Text_540P_Put_the_codes_and_.mp4)
 
 ### Data Analyst | Developer | Problem Solver
 
