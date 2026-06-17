@@ -1,3 +1,5 @@
+<img width="1376" height="768" alt="Gemini_Generated_Image_mi144zmi144zmi14" src="https://github.com/user-attachments/assets/ef1b1705-4a13-4111-8cc3-8233c559b0d3" />
+
 # Hello, I'm Abdulrahman Mahmoud 👋
 
 ### Data Analyst | Developer | Problem Solver
