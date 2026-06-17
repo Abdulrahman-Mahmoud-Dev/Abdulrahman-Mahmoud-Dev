@@ -1,6 +1,6 @@
 # Hello, I'm Abdulrahman Mahmoud 👋
 
-### Data Analyst | Web Developer
+### Data Analyst | Developer | Problem Solver
 
 I am passionate about turning raw data into meaningful insights and building functional, user-centric web experiences. I focus on uncovering patterns and leveraging data to drive informed decision-making.
 
