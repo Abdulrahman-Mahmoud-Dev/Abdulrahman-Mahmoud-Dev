@@ -1,16 +1,32 @@
-## Hi there
+# Hello, I'm Abdulrahman Mahmoud 👋
 
-<!--
-**Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Web Developer
 
-Here are some ideas to get you started:
+I am passionate about turning raw data into meaningful insights and building functional, user-centric web experiences. I focus on uncovering patterns and leveraging data to drive informed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Skills
+
+- **Data Analytics:** Data Visualization, SQL, Google Analytics, Looker Studio.
+- **Web Development:** HTML5, CSS3, JavaScript.
+- **Tools:** Git, GitHub, VS Code.
+
+---
+
+### 🌐 Connect with me
+
+- **Google Developer Profile:** [View Profile](https://developers.google.com/profile/abdulrahman-mahmoud)
+- **LinkedIn:** [linkedin.com/in/abdulrahman-mahmoud-analyst](https://linkedin.com/in/abdulrahman-mahmoud-analyst)
+- **Portfolio:** [Add your portfolio link here]
+
+---
+
+### 📈 Current Focus
+Currently exploring advanced data analysis techniques and optimizing web performance through data-driven insights.
+
+> "Data is the new oil, but only if you know how to refine it."
+
+---
+
+*Feel free to reach out for collaborations or project discussions!*
