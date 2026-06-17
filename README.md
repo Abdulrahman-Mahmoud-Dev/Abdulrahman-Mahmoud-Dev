@@ -4,6 +4,16 @@
 
 [▶️ Watch Demo Video](./PixVerse_V6_Image_Text_540P_Put_the_codes_and_.mp4)
 
+
+
+<p align="center">
+  <img src="![Uploading Gemini_Generated_Image_d5fvd5d5fvd5d5fv (1).png…]()
+" width="100%" alt="Abdulrahman Mahmoud">
+</p>
+
+
+
+
 ### Data Analyst | Developer | Problem Solver
 
 I am passionate about turning raw data into meaningful insights and building functional, user-centric web experiences. I focus on uncovering patterns and leveraging data to drive informed decision-making.
