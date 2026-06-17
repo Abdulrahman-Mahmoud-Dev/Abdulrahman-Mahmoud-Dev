@@ -1,6 +1,8 @@
 # Hello, I'm Abdulrahman Mahmoud 👋
 
-<img width="1376" height="768" alt="Gemini_Generated_Image_d5fvd5d5fvd5d5fv" src="https://github.com/user-attachments/assets/cbb4d25b-04d3-4be3-aa9d-421ca785285d" />
+<p align="center">
+  <img src=<img width="1376" height="768" alt="Gemini_Generated_Image_d5fvd5d5fvd5d5fv" src="https://github.com/user-attachments/assets/cbb4d25b-04d3-4be3-aa9d-421ca785285d" /> width="100%">
+</p>
 
 ### Data Analyst | Developer | Problem Solver
 
