@@ -6,12 +6,6 @@
   </video>
 </p>
 
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cbb4d25b-04d3-4be3-aa9d-421ca785285d" width="100%" alt="Abdulrahman Mahmoud">
-</p>
-
 ### Data Analyst | Developer | Problem Solver
 
 I am passionate about turning raw data into meaningful insights and building functional, user-centric web experiences. I focus on uncovering patterns and leveraging data to drive informed decision-making.
