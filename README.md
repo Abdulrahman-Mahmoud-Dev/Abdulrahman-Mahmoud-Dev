@@ -6,6 +6,13 @@ I am passionate about turning raw data into meaningful insights and building fun
 
 ---
 
+### 📈 Current Focus
+Currently exploring advanced data analysis techniques and optimizing web performance through data-driven insights.
+
+> "Data is the new oil, but only if you know how to refine it."
+
+---
+
 ### 🛠 Technical Skills
 
 - **Data Analytics:** Data Visualization, SQL, Google Analytics, Looker Studio.
@@ -19,13 +26,6 @@ I am passionate about turning raw data into meaningful insights and building fun
 - **Portfolio:** [[Profile website](https://abdulrahman-mahmoud-dev.github.io/portfolio/#contact)]
 - **LinkedIn:** [linkedin.com/in/abdulrahman-mahmoud-analyst](https://linkedin.com/in/abdulrahman-mahmoud-analyst)
 - **Google Developer Profile:** [View Profile](https://developers.google.com/profile/abdulrahman-mahmoud)
-
----
-
-### 📈 Current Focus
-Currently exploring advanced data analysis techniques and optimizing web performance through data-driven insights.
-
-> "Data is the new oil, but only if you know how to refine it."
 
 ---
 
