@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev/main/ezgif-86ee809dcb42fe5e.gif" 
-       width="65%" 
+       width="75%" 
        alt="Abdulrahman Mahmoud" 
        style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
 </div>
