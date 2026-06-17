@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://abdulrahman-mahmoud-dev.github.io/">
+  <a href="[https://abdulrahman-mahmoud-dev.github.io/](https://abdulrahman-mahmoud-dev.github.io/portfolio/#contact)">
     <img src="https://raw.githubusercontent.com/Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev/main/ezgif-86ee809dcb42fe5e.gif" 
          width="65%" 
          alt="Abdulrahman Mahmoud" 
