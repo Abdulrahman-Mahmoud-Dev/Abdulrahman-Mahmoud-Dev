@@ -1,13 +1,12 @@
 # Hi, I'm Abdulrahman Mahmoud 👋
 
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev/main/ezgif-86ee809dcb42fe5e.gif" 
-         width="65%" 
-         alt="Abdulrahman Mahmoud" 
-         style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev/main/ezgif-86ee809dcb42fe5e.gif" 
+       width="65%" 
+       alt="Abdulrahman Mahmoud" 
+       style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+</div>
 
 
 ### Data Analyst | Developer | Problem Solver
