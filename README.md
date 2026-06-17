@@ -7,9 +7,9 @@
 
 
 <p align="center">
-  <img src="![Uploading Gemini_Generated_Image_d5fvd5d5fvd5d5fv (1).png…]()
-" width="100%" alt="Abdulrahman Mahmoud">
+  <img src="ضع_رابط_الصورة_هنا" width="100%" alt="Abdulrahman Mahmoud">
 </p>
+
 
 
 
