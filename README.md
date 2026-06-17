@@ -1,6 +1,14 @@
 # Hi, I'm Abdulrahman Mahmoud 👋
 
 <p align="center">
+  <video width="100%" autoplay loop muted playsinline>
+    <source src="https://github.com/Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev/raw/refs/heads/main/PixVerse_V6_Image_Text_540P_Put_the_codes_and_.mp4" type="video/mp4">
+  </video>
+</p>
+
+
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/cbb4d25b-04d3-4be3-aa9d-421ca785285d" width="100%" alt="Abdulrahman Mahmoud">
 </p>
 
