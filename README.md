@@ -16,9 +16,9 @@ I am passionate about turning raw data into meaningful insights and building fun
 
 ### 🌐 Connect with me
 
-- **Google Developer Profile:** [View Profile](https://developers.google.com/profile/abdulrahman-mahmoud)
+- **Portfolio:** [[Add your portfolio link here](https://abdulrahman-mahmoud-dev.github.io/portfolio/#contact)]
 - **LinkedIn:** [linkedin.com/in/abdulrahman-mahmoud-analyst](https://linkedin.com/in/abdulrahman-mahmoud-analyst)
-- **Portfolio:** [Add your portfolio link here]
+- **Google Developer Profile:** [View Profile](https://developers.google.com/profile/abdulrahman-mahmoud)
 
 ---
 
