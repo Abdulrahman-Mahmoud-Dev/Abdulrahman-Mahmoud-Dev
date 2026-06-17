@@ -2,12 +2,10 @@
 
 
 <p align="center">
-  <a href="[https://abdulrahman-mahmoud-dev.github.io/](https://abdulrahman-mahmoud-dev.github.io/portfolio/#contact)">
     <img src="https://raw.githubusercontent.com/Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev/main/ezgif-86ee809dcb42fe5e.gif" 
          width="65%" 
          alt="Abdulrahman Mahmoud" 
          style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
-  </a>
 </p>
 
 
