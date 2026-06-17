@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev/main/ezgif-86ee809dcb42fe5e.gif" width="100%" alt="Abdulrahman Mahmoud">
+  <img src="https://raw.githubusercontent.com/Abdulrahman-Mahmoud-Dev/Abdulrahman-Mahmoud-Dev/main/ezgif-86ee809dcb42fe5e.gif" width="50%" alt="Abdulrahman Mahmoud">
 </p>
 
 
