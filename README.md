@@ -6,18 +6,18 @@ I am passionate about turning raw data into meaningful insights and building fun
 
 ---
 
-### 📈 Current Focus
+### 🎯 Current Focus
 Currently exploring advanced data analysis techniques and optimizing web performance through data-driven insights.
 
 > "Data is the new oil, but only if you know how to refine it."
 
 ---
 
-### 🛠 Technical Skills
+### 💻 Technical Skills
 
-- **Data Analytics:** Data Visualization, SQL, Google Analytics, Looker Studio.
-- **Web Development:** HTML5, CSS3, JavaScript.
-- **Tools:** Git, GitHub, VS Code.
+- 📊 **Data Analytics:** Data Visualization, SQL, Google Analytics, Looker Studio.
+- ⚙️ **Web Development:** HTML5, CSS3, JavaScript.
+- 🛠 **Tools:** Git, GitHub, VS Code.
 
 ---
 
